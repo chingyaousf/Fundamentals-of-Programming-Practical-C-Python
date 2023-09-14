@@ -10,6 +10,6 @@ In the upcoming posts, I'll be attaching lecture slides, my coding projects, int
 
 ## Blog:
 
-<https://ssidmarine.wordpress.com/2023/08/12/rna-seq-data-processing-by-hpc/>
+<https://ssidmarine.wordpress.com/2023/09/13/fundamentals-of-programming-practical-c-python/>
 
 **Material available in the data folder**
